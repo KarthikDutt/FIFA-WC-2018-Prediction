@@ -1,0 +1,65 @@
+,Year,Team1,Team2,Predicted_Winner,Actual Winner
+0,2002,France,Senegal,France,Senegal
+1,2002,Denmark,Uruguay,Denmark,Denmark
+2,2002,France,Uruguay,France,Tie
+3,2002,Denmark,Senegal,Denmark,Tie
+4,2002,France,Denmark,France,Denmark
+5,2002,Uruguay,Senegal,Uruguay,Tie
+6,2002,Paraguay,South Africa,Paraguay,Tie
+7,2002,Spain,Slovenia,Spain,Spain
+8,2002,Spain,Paraguay,Spain,Spain
+9,2002,Slovenia,South Africa,South Africa,South Africa
+10,2002,Spain,South Africa,Spain,Spain
+11,2002,Paraguay,Slovenia,Paraguay,Paraguay
+12,2002,Brazil,Turkey,Brazil,Brazil
+13,2002,Costa Rica,China,Costa Rica,Costa Rica
+14,2002,China,Brazil,Brazil,Brazil
+15,2002,Turkey,Costa Rica,Turkey,Tie
+16,2002,Brazil,Costa Rica,Brazil,Brazil
+17,2002,China,Turkey,China,Turkey
+18,2002,Poland,South Korea,Tie,South Korea
+19,2002,Portugal,United States,Portugal,United States
+20,2002,United States,South Korea,South Korea,Tie
+21,2002,Portugal,Poland,Portugal,Portugal
+22,2002,South Korea,Portugal,Portugal,South Korea
+23,2002,United States,Poland,Poland,Poland
+24,2002,Cameroon,Republic of Ireland,Cameroon,Tie
+25,2002,Germany,Saudi Arabia,Germany,Germany
+26,2002,Republic of Ireland,Germany,Germany,Tie
+27,2002,Cameroon,Saudi Arabia,Cameroon,Cameroon
+28,2002,Germany,Cameroon,Germany,Germany
+29,2002,Republic of Ireland,Saudi Arabia,Saudi Arabia,Republic of Ireland
+30,2002,England,Sweden,England,Tie
+31,2002,Nigeria,Argentina,Tie,Argentina
+32,2002,Sweden,Nigeria,Sweden,Sweden
+33,2002,England,Argentina,England,England
+34,2002,Argentina,Sweden,Argentina,Tie
+35,2002,England,Nigeria,England,Tie
+36,2002,Mexico,Croatia,Mexico,Mexico
+37,2002,Ecuador,Italy,Italy,Italy
+38,2002,Croatia,Italy,Tie,Croatia
+39,2002,Mexico,Ecuador,Mexico,Mexico
+40,2002,Italy,Mexico,Italy,Tie
+41,2002,Croatia,Ecuador,Croatia,Ecuador
+42,2002,Belgium,Japan,Belgium,Tie
+43,2002,Russia,Tunisia,Russia,Russia
+44,2002,Russia,Japan,Russia,Japan
+45,2002,Belgium,Tunisia,Belgium,Tie
+46,2002,Tunisia,Japan,Tunisia,Japan
+47,2002,Belgium,Russia,Russia,Belgium
+48,2002,Germany,Paraguay,Germany,Germany
+49,2002,England,Denmark,England,England
+50,2002,Sweden,Senegal,Sweden,Senegal
+51,2002,Republic of Ireland,Spain,Spain,Tie
+52,2002,United States,Mexico,Mexico,United States
+53,2002,Brazil,Belgium,Brazil,Brazil
+54,2002,Turkey,Japan,Turkey,Turkey
+55,2002,Italy,South Korea,Italy,South Korea
+56,2002,Brazil,England,Brazil,Brazil
+57,2002,United States,Germany,Germany,Germany
+58,2002,South Korea,Spain,Tie,Tie
+59,2002,Turkey,Senegal,Turkey,Turkey
+60,2002,South Korea,Germany,Germany,Germany
+61,2002,Brazil,Turkey,Brazil,Brazil
+62,2002,Turkey,South Korea,South Korea,Turkey
+63,2002,Brazil,Germany,Brazil,Brazil

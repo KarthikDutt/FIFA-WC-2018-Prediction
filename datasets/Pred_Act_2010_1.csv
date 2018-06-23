@@ -1,0 +1,65 @@
+,Year,Team1,Team2,Predicted_Winner,Actual Winner
+0,2010,Mexico,South Africa,Mexico,Tie
+1,2010,France,Uruguay,France,Tie
+2,2010,Nigeria,Argentina,Tie,Argentina
+3,2010,United States,England,England,Tie
+4,2010,Greece,South Korea,Greece,South Korea
+5,2010,Slovenia,Algeria,Algeria,Slovenia
+6,2010,Germany,Australia,Germany,Germany
+7,2010,Serbia,Ghana,Serbia,Ghana
+8,2010,Paraguay,Italy,Paraguay,Tie
+9,2010,Cameroon,Japan,Cameroon,Japan
+10,2010,Netherlands,Denmark,Netherlands,Netherlands
+11,2010,Brazil,North Korea,Brazil,Brazil
+12,2010,Portugal,Ivory Coast,Portugal,Tie
+13,2010,Slovakia,New Zealand,Slovakia,Tie
+14,2010,Chile,Honduras,Chile,Chile
+15,2010,Uruguay,South Africa,Uruguay,Uruguay
+16,2010,Switzerland,Spain,Spain,Switzerland
+17,2010,South Korea,Argentina,Argentina,Argentina
+18,2010,France,Mexico,France,Mexico
+19,2010,Greece,Nigeria,Nigeria,Greece
+20,2010,England,Algeria,England,Tie
+21,2010,Germany,Serbia,Germany,Serbia
+22,2010,United States,Slovenia,United States,Tie
+23,2010,Cameroon,Denmark,Cameroon,Denmark
+24,2010,Australia,Ghana,Australia,Tie
+25,2010,Netherlands,Japan,Netherlands,Netherlands
+26,2010,Brazil,Ivory Coast,Brazil,Brazil
+27,2010,New Zealand,Italy,Italy,Tie
+28,2010,Paraguay,Slovakia,Paraguay,Paraguay
+29,2010,Switzerland,Chile,Switzerland,Chile
+30,2010,Portugal,North Korea,Portugal,Portugal
+31,2010,Spain,Honduras,Spain,Spain
+32,2010,France,South Africa,France,South Africa
+33,2010,Argentina,Greece,Argentina,Argentina
+34,2010,Mexico,Uruguay,Mexico,Uruguay
+35,2010,Nigeria,South Korea,Nigeria,Tie
+36,2010,Serbia,Australia,Tie,Australia
+37,2010,Germany,Ghana,Germany,Germany
+38,2010,England,Slovenia,England,England
+39,2010,Algeria,United States,Algeria,United States
+40,2010,Netherlands,Cameroon,Netherlands,Netherlands
+41,2010,Denmark,Japan,Denmark,Japan
+42,2010,Paraguay,New Zealand,Paraguay,Tie
+43,2010,Italy,Slovakia,Italy,Slovakia
+44,2010,Spain,Chile,Spain,Spain
+45,2010,Ivory Coast,North Korea,Ivory Coast,Ivory Coast
+46,2010,Brazil,Portugal,Brazil,Tie
+47,2010,Honduras,Switzerland,Switzerland,Tie
+48,2010,Uruguay,South Korea,Uruguay,Uruguay
+49,2010,Ghana,United States,Ghana,Ghana
+50,2010,Mexico,Argentina,Argentina,Argentina
+51,2010,Germany,England,England,Germany
+52,2010,Brazil,Chile,Brazil,Brazil
+53,2010,Netherlands,Slovakia,Netherlands,Netherlands
+54,2010,Paraguay,Japan,Paraguay,Tie
+55,2010,Spain,Portugal,Spain,Spain
+56,2010,Brazil,Netherlands,Brazil,Netherlands
+57,2010,Uruguay,Ghana,Uruguay,Tie
+58,2010,Germany,Argentina,Germany,Germany
+59,2010,Spain,Paraguay,Spain,Spain
+60,2010,Netherlands,Uruguay,Netherlands,Netherlands
+61,2010,Spain,Germany,Spain,Spain
+62,2010,Germany,Uruguay,Germany,Germany
+63,2010,Spain,Netherlands,Spain,Spain

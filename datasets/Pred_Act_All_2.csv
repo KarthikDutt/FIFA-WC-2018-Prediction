@@ -1,0 +1,421 @@
+Year,Team1,Team2,Predicted_Winner
+1994,Germany,Bolivia,Germany
+1994,Spain,South Korea,Spain
+1994,Switzerland,United States,Switzerland
+1994,Italy,Republic of Ireland,Italy
+1994,Romania,Colombia,Romania
+1994,Morocco,Belgium,Morocco
+1994,Norway,Mexico,Mexico
+1994,Sweden,Cameroon,Sweden
+1994,Russia,Brazil,Russia
+1994,Netherlands,Saudi Arabia,Netherlands
+1994,Argentina,Greece,Argentina
+1994,Germany,Spain,Germany
+1994,Bulgaria,Nigeria,Bulgaria
+1994,Switzerland,Romania,Switzerland
+1994,Colombia,United States,Colombia
+1994,Norway,Italy,Italy
+1994,South Korea,Bolivia,South Korea
+1994,Mexico,Republic of Ireland,Mexico
+1994,Brazil,Cameroon,Brazil
+1994,Russia,Sweden,Russia
+1994,Netherlands,Belgium,Netherlands
+1994,Morocco,Saudi Arabia,Morocco
+1994,Argentina,Nigeria,Argentina
+1994,Bulgaria,Greece,Bulgaria
+1994,Switzerland,Colombia,Switzerland
+1994,Romania,United States,Romania
+1994,Germany,South Korea,Germany
+1994,Spain,Bolivia,Spain
+1994,Norway,Republic of Ireland,Norway
+1994,Italy,Mexico,Italy
+1994,Cameroon,Russia,Russia
+1994,Brazil,Sweden,Brazil
+1994,Netherlands,Morocco,Netherlands
+1994,Belgium,Saudi Arabia,Belgium
+1994,Argentina,Bulgaria,Argentina
+1994,Greece,Nigeria,Greece
+1994,Germany,Belgium,Germany
+1994,Switzerland,Spain,Spain
+1994,Sweden,Saudi Arabia,Sweden
+1994,Argentina,Romania,Argentina
+1994,Netherlands,Republic of Ireland,Netherlands
+1994,Brazil,United States,Brazil
+1994,Italy,Nigeria,Italy
+1994,Mexico,Bulgaria,Mexico
+1994,Spain,Italy,Spain
+1994,Brazil,Netherlands,Brazil
+1994,Germany,Bulgaria,Germany
+1994,Sweden,Romania,Sweden
+1994,Brazil,Sweden,Brazil
+1994,Italy,Bulgaria,Italy
+1994,Sweden,Bulgaria,Sweden
+1994,Brazil,Italy,Brazil
+1998,Brazil,Scotland,Brazil
+1998,Norway,Morocco,Norway
+1998,Chile,Italy,Italy
+1998,Austria,Cameroon,Austria
+1998,Paraguay,Bulgaria,Tie
+1998,Denmark,Saudi Arabia,Denmark
+1998,South Africa,France,France
+1998,Spain,Nigeria,Spain
+1998,Mexico,South Korea,Mexico
+1998,Netherlands,Belgium,Netherlands
+1998,Japan,Argentina,Argentina
+1998,Yugoslavia,Iran,Yugoslavia
+1998,Croatia,Jamaica,Croatia
+1998,England,Tunisia,England
+1998,Colombia,Romania,Romania
+1998,United States,Germany,Germany
+1998,Norway,Scotland,Scotland
+1998,Morocco,Brazil,Brazil
+1998,Chile,Austria,Austria
+1998,Cameroon,Italy,Italy
+1998,Denmark,South Africa,Denmark
+1998,France,Saudi Arabia,France
+1998,Bulgaria,Nigeria,Bulgaria
+1998,Spain,Paraguay,Spain
+1998,Japan,Croatia,Croatia
+1998,Mexico,Belgium,Mexico
+1998,Netherlands,South Korea,Netherlands
+1998,Germany,Yugoslavia,Germany
+1998,Jamaica,Argentina,Tie
+1998,Iran,United States,Iran
+1998,Colombia,Tunisia,Colombia
+1998,England,Romania,England
+1998,Austria,Italy,Italy
+1998,Chile,Cameroon,Chile
+1998,Morocco,Scotland,Morocco
+1998,Brazil,Norway,Brazil
+1998,Denmark,France,Denmark
+1998,South Africa,Saudi Arabia,South Africa
+1998,Spain,Bulgaria,Spain
+1998,Paraguay,Nigeria,Tie
+1998,South Korea,Belgium,Belgium
+1998,Mexico,Netherlands,Mexico
+1998,Germany,Iran,Germany
+1998,Yugoslavia,United States,Yugoslavia
+1998,Japan,Jamaica,Japan
+1998,Croatia,Argentina,Tie
+1998,Romania,Tunisia,Romania
+1998,England,Colombia,England
+1998,Norway,Italy,Italy
+1998,Brazil,Chile,Brazil
+1998,France,Paraguay,France
+1998,Denmark,Nigeria,Denmark
+1998,Germany,Mexico,Germany
+1998,Yugoslavia,Netherlands,Yugoslavia
+1998,Romania,Croatia,Romania
+1998,England,Argentina,England
+1998,France,Italy,Italy
+1998,Brazil,Denmark,Brazil
+1998,Argentina,Netherlands,Argentina
+1998,Germany,Croatia,Germany
+1998,Brazil,Netherlands,Brazil
+1998,Croatia,France,Croatia
+1998,Netherlands,Croatia,Netherlands
+1998,Brazil,France,Brazil
+2002,France,Senegal,France
+2002,Denmark,Uruguay,Denmark
+2002,France,Uruguay,France
+2002,Denmark,Senegal,Denmark
+2002,France,Denmark,France
+2002,Uruguay,Senegal,Uruguay
+2002,Paraguay,South Africa,Paraguay
+2002,Spain,Slovenia,Spain
+2002,Spain,Paraguay,Spain
+2002,Slovenia,South Africa,South Africa
+2002,Spain,South Africa,Spain
+2002,Paraguay,Slovenia,Paraguay
+2002,Brazil,Turkey,Brazil
+2002,Costa Rica,China PR,Costa Rica
+2002,China PR,Brazil,Brazil
+2002,Turkey,Costa Rica,Turkey
+2002,Brazil,Costa Rica,Brazil
+2002,China PR,Turkey,China PR
+2002,Poland,Korea Republic,Tie
+2002,Portugal,USA,Portugal
+2002,USA,Korea Republic,Korea Republic
+2002,Portugal,Poland,Portugal
+2002,Korea Republic,Portugal,Portugal
+2002,USA,Poland,Poland
+2002,Cameroon,Republic of Ireland,Cameroon
+2002,Germany,Saudi Arabia,Germany
+2002,Republic of Ireland,Germany,Germany
+2002,Cameroon,Saudi Arabia,Cameroon
+2002,Germany,Cameroon,Germany
+2002,Republic of Ireland,Saudi Arabia,Saudi Arabia
+2002,England,Sweden,England
+2002,Nigeria,Argentina,Tie
+2002,Sweden,Nigeria,Sweden
+2002,England,Argentina,England
+2002,Argentina,Sweden,Argentina
+2002,England,Nigeria,England
+2002,Mexico,Croatia,Mexico
+2002,Ecuador,Italy,Italy
+2002,Croatia,Italy,Tie
+2002,Mexico,Ecuador,Mexico
+2002,Italy,Mexico,Italy
+2002,Croatia,Ecuador,Croatia
+2002,Belgium,Japan,Belgium
+2002,Russia,Tunisia,Russia
+2002,Russia,Japan,Russia
+2002,Belgium,Tunisia,Belgium
+2002,Tunisia,Japan,Tunisia
+2002,Belgium,Russia,Russia
+2002,Germany,Paraguay,Germany
+2002,England,Denmark,England
+2002,Sweden,Senegal,Sweden
+2002,Republic of Ireland,Spain,Spain
+2002,USA,Mexico,Mexico
+2002,Brazil,Belgium,Brazil
+2002,Turkey,Japan,Turkey
+2002,Italy,Korea Republic,Italy
+2002,Brazil,England,Brazil
+2002,USA,Germany,Germany
+2002,Korea Republic,Spain,Tie
+2002,Turkey,Senegal,Turkey
+2002,Korea Republic,Germany,Germany
+2002,Brazil,Turkey,Brazil
+2002,Turkey,Korea Republic,Korea Republic
+2002,Brazil,Germany,Brazil
+2006,Germany,Costa Rica,Germany
+2006,Poland,Ecuador,Poland
+2006,Cote Divoire,Argentina,Argentina
+2006,England,Paraguay,England
+2006,Sweden,Trinidad and Tobago,Sweden
+2006,Portugal,Angola,Portugal
+2006,Mexico,Iran,Mexico
+2006,Netherlands,Serbia,Netherlands
+2006,Japan,Australia,Japan
+2006,Ghana,Italy,Tie
+2006,Czech Republic,United States,Czech Republic
+2006,Brazil,Croatia,Brazil
+2006,Switzerland,France,Switzerland
+2006,South Korea,Togo,South Korea
+2006,Germany,Poland,Germany
+2006,Spain,Ukraine,Spain
+2006,Tunisia,Saudi Arabia,Tunisia
+2006,Costa Rica,Ecuador,Costa Rica
+2006,Trinidad and Tobago,England,England
+2006,Sweden,Paraguay,Sweden
+2006,Serbia,Argentina,Tie
+2006,Mexico,Angola,Mexico
+2006,Netherlands,Cote Divoire,Netherlands
+2006,Ghana,Czech Republic,Tie
+2006,United States,Italy,Italy
+2006,Portugal,Iran,Portugal
+2006,Brazil,Australia,Brazil
+2006,France,South Korea,France
+2006,Japan,Croatia,Croatia
+2006,Saudi Arabia,Ukraine,Saudi Arabia
+2006,Spain,Tunisia,Spain
+2006,Switzerland,Togo,Switzerland
+2006,Costa Rica,Poland,Poland
+2006,Germany,Ecuador,Germany
+2006,Trinidad and Tobago,Paraguay,Paraguay
+2006,England,Sweden,England
+2006,Iran,Angola,Iran
+2006,Serbia,Cote Divoire,Serbia
+2006,Argentina,Netherlands,Argentina
+2006,Mexico,Portugal,Mexico
+2006,Croatia,Australia,Croatia
+2006,Italy,Czech Republic,Italy
+2006,United States,Ghana,United States
+2006,Brazil,Japan,Brazil
+2006,Spain,Saudi Arabia,Spain
+2006,South Korea,Switzerland,Switzerland
+2006,France,Togo,France
+2006,Tunisia,Ukraine,Tunisia
+2006,Mexico,Argentina,Tie
+2006,Sweden,Germany,Germany
+2006,England,Ecuador,England
+2006,Netherlands,Portugal,Netherlands
+2006,Australia,Italy,Italy
+2006,Ukraine,Switzerland,Ukraine
+2006,Brazil,Ghana,Brazil
+2006,Spain,France,Spain
+2006,Argentina,Germany,Argentina
+2006,Ukraine,Italy,Tie
+2006,Brazil,France,Brazil
+2006,Portugal,England,England
+2006,Italy,Germany,Italy
+2006,France,Portugal,France
+2006,Portugal,Germany,Germany
+2006,France,Italy,France
+2010,Mexico,South Africa,Mexico
+2010,France,Uruguay,France
+2010,Nigeria,Argentina,Tie
+2010,United States,England,England
+2010,Greece,South Korea,Greece
+2010,Slovenia,Algeria,Algeria
+2010,Germany,Australia,Germany
+2010,Serbia,Ghana,Serbia
+2010,Paraguay,Italy,Paraguay
+2010,Cameroon,Japan,Cameroon
+2010,Netherlands,Denmark,Netherlands
+2010,Brazil,North Korea,Brazil
+2010,Portugal,Cote Divoire,Portugal
+2010,Slovakia,New Zealand,Slovakia
+2010,Chile,Honduras,Chile
+2010,Uruguay,South Africa,Uruguay
+2010,Switzerland,Spain,Spain
+2010,South Korea,Argentina,Argentina
+2010,France,Mexico,France
+2010,Greece,Nigeria,Nigeria
+2010,England,Algeria,England
+2010,Germany,Serbia,Germany
+2010,United States,Slovenia,United States
+2010,Cameroon,Denmark,Cameroon
+2010,Australia,Ghana,Australia
+2010,Netherlands,Japan,Netherlands
+2010,Brazil,Cote Divoire,Brazil
+2010,New Zealand,Italy,Italy
+2010,Paraguay,Slovakia,Paraguay
+2010,Switzerland,Chile,Switzerland
+2010,Portugal,North Korea,Portugal
+2010,Spain,Honduras,Spain
+2010,France,South Africa,France
+2010,Argentina,Greece,Argentina
+2010,Mexico,Uruguay,Mexico
+2010,Nigeria,South Korea,Nigeria
+2010,Serbia,Australia,Tie
+2010,Germany,Ghana,Germany
+2010,England,Slovenia,England
+2010,Algeria,United States,Algeria
+2010,Netherlands,Cameroon,Netherlands
+2010,Denmark,Japan,Denmark
+2010,Paraguay,New Zealand,Paraguay
+2010,Italy,Slovakia,Italy
+2010,Spain,Chile,Spain
+2010,Cote Divoire,North Korea,Cote Divoire
+2010,Brazil,Portugal,Brazil
+2010,Honduras,Switzerland,Switzerland
+2010,Uruguay,South Korea,Uruguay
+2010,Ghana,United States,Ghana
+2010,Mexico,Argentina,Argentina
+2010,Germany,England,England
+2010,Brazil,Chile,Brazil
+2010,Netherlands,Slovakia,Netherlands
+2010,Paraguay,Japan,Paraguay
+2010,Spain,Portugal,Spain
+2010,Brazil,Netherlands,Brazil
+2010,Uruguay,Ghana,Uruguay
+2010,Germany,Argentina,Germany
+2010,Spain,Paraguay,Spain
+2010,Netherlands,Uruguay,Netherlands
+2010,Spain,Germany,Spain
+2010,Germany,Uruguay,Germany
+2010,Spain,Netherlands,Spain
+2014,Brazil,Croatia,Brazil
+2014,Chile,Australia,Chile
+2014,Mexico,Cameroon,Mexico
+2014,Spain,Netherlands,Spain
+2014,Colombia,Greece,Colombia
+2014,Italy,England,Italy
+2014,Japan,Ivory Coast,Japan
+2014,Uruguay,Costa Rica,Uruguay
+2014,Bosnia-Herzegovina,Argentina,Argentina
+2014,France,Honduras,France
+2014,Ecuador,Switzerland,Switzerland
+2014,Germany,Portugal,Germany
+2014,USA,Ghana,USA
+2014,Iran,Nigeria,Iran
+2014,Belgium,Algeria,Belgium
+2014,Brazil,Mexico,Brazil
+2014,Korea Republic,Russia,Russia
+2014,Netherlands,Australia,Netherlands
+2014,Croatia,Cameroon,Croatia
+2014,Spain,Chile,Spain
+2014,Ivory Coast,Colombia,Ivory Coast
+2014,Greece,Japan,Greece
+2014,Uruguay,England,England
+2014,Ecuador,Honduras,Ecuador
+2014,Costa Rica,Italy,Italy
+2014,France,Switzerland,France
+2014,Iran,Argentina,Argentina
+2014,Germany,Ghana,Germany
+2014,Bosnia-Herzegovina,Nigeria,Tie
+2014,Belgium,Russia,Russia
+2014,Algeria,Korea Republic,Algeria
+2014,Portugal,USA,Portugal
+2014,Spain,Australia,Spain
+2014,Brazil,Cameroon,Brazil
+2014,Mexico,Croatia,Croatia
+2014,Chile,Netherlands,Netherlands
+2014,England,Costa Rica,England
+2014,Ivory Coast,Greece,Ivory Coast
+2014,Uruguay,Italy,Uruguay
+2014,Colombia,Japan,Colombia
+2014,Iran,Bosnia-Herzegovina,Iran
+2014,France,Ecuador,France
+2014,Switzerland,Honduras,Switzerland
+2014,Argentina,Nigeria,Argentina
+2014,Russia,Algeria,Russia
+2014,Belgium,Korea Republic,Belgium
+2014,Portugal,Ghana,Portugal
+2014,Germany,USA,Germany
+2014,Brazil,Chile,Brazil
+2014,Colombia,Uruguay,Uruguay
+2014,Greece,Costa Rica,Greece
+2014,Netherlands,Mexico,Netherlands
+2014,France,Nigeria,France
+2014,Germany,Algeria,Germany
+2014,Switzerland,Argentina,Argentina
+2014,USA,Belgium,USA
+2014,Colombia,Brazil,Brazil
+2014,Germany,France,Germany
+2014,Belgium,Argentina,Argentina
+2014,Netherlands,Costa Rica,Netherlands
+2014,Germany,Brazil,Brazil
+2014,Argentina,Netherlands,Argentina
+2014,Brazil,Netherlands,Brazil
+2014,Argentina,Germany,Argentina
+2018,Russia,Saudi Arabia,Russia
+2018,Uruguay,Egypt,Uruguay
+2018,Iran,Morocco,Tie
+2018,Portugal,Spain,Spain
+2018,France,Australia,France
+2018,Argentina,Iceland,Argentina
+2018,Peru,Denmark,Peru
+2018,Croatia,Nigeria,Croatia
+2018,Costa Rica,Serbia,Costa Rica
+2018,Germany,Mexico,Germany
+2018,Brazil,Switzerland,Brazil
+2018,Sweden,Korea Republic,Sweden
+2018,Belgium,Panama,Belgium
+2018,England,Tunisia,England
+2018,Colombia,Japan,Colombia
+2018,Poland,Senegal,Poland
+2018,Egypt,Russia,Russia
+2018,Portugal,Morocco,Portugal
+2018,Uruguay,Saudi Arabia,Uruguay
+2018,Spain,Iran,Spain
+2018,Denmark,Australia,Denmark
+2018,France,Peru,France
+2018,Argentina,Croatia,Argentina
+2018,Brazil,Costa Rica,Brazil
+2018,Iceland,Nigeria,Nigeria
+2018,Switzerland,Serbia,Switzerland
+2018,Belgium,Tunisia,Belgium
+2018,Mexico,Korea Republic,Mexico
+2018,Germany,Sweden,Germany
+2018,England,Panama,England
+2018,Senegal,Japan,Senegal
+2018,Poland,Colombia,Poland
+2018,Uruguay,Russia,Tie
+2018,Egypt,Saudi Arabia,Egypt
+2018,Portugal,Iran,Portugal
+2018,Spain,Morocco,Spain
+2018,France,Denmark,France
+2018,Peru,Australia,Peru
+2018,Argentina,Nigeria,Argentina
+2018,Croatia,Iceland,Croatia
+2018,Mexico,Sweden,Mexico
+2018,Germany,Korea Republic,Germany
+2018,Brazil,Serbia,Brazil
+2018,Switzerland,Costa Rica,Switzerland
+2018,Poland,Japan,Poland
+2018,Colombia,Senegal,Colombia
+2018,Tunisia,Panama,Tunisia
+2018,Belgium,England,England

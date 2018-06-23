@@ -1,0 +1,65 @@
+,Year,Team1,Team2,Predicted_Winner,Actual Winner
+0,1998,Brazil,Scotland,Brazil,Brazil
+1,1998,Norway,Morocco,Norway,Tie
+2,1998,Chile,Italy,Italy,Tie
+3,1998,Austria,Cameroon,Austria,Tie
+4,1998,Paraguay,Bulgaria,Tie,Tie
+5,1998,Denmark,Saudi Arabia,Denmark,Denmark
+6,1998,South Africa,France,France,France
+7,1998,Spain,Nigeria,Spain,Nigeria
+8,1998,Mexico,South Korea,Mexico,Mexico
+9,1998,Netherlands,Belgium,Netherlands,Tie
+10,1998,Japan,Argentina,Argentina,Argentina
+11,1998,Serbia,Iran,Serbia,Serbia
+12,1998,Croatia,Jamaica,Croatia,Croatia
+13,1998,England,Tunisia,England,England
+14,1998,Colombia,Romania,Romania,Romania
+15,1998,United States,Germany,Germany,Germany
+16,1998,Norway,Scotland,Scotland,Tie
+17,1998,Morocco,Brazil,Brazil,Brazil
+18,1998,Chile,Austria,Austria,Tie
+19,1998,Cameroon,Italy,Italy,Italy
+20,1998,Denmark,South Africa,Denmark,Tie
+21,1998,France,Saudi Arabia,France,France
+22,1998,Bulgaria,Nigeria,Bulgaria,Nigeria
+23,1998,Spain,Paraguay,Spain,Tie
+24,1998,Japan,Croatia,Croatia,Croatia
+25,1998,Mexico,Belgium,Mexico,Tie
+26,1998,Netherlands,South Korea,Netherlands,Netherlands
+27,1998,Germany,Serbia,Germany,Tie
+28,1998,Jamaica,Argentina,Tie,Argentina
+29,1998,Iran,United States,Iran,Iran
+30,1998,Colombia,Tunisia,Colombia,Colombia
+31,1998,England,Romania,England,Romania
+32,1998,Austria,Italy,Italy,Italy
+33,1998,Chile,Cameroon,Chile,Tie
+34,1998,Morocco,Scotland,Morocco,Morocco
+35,1998,Brazil,Norway,Brazil,Norway
+36,1998,Denmark,France,Denmark,France
+37,1998,South Africa,Saudi Arabia,South Africa,Tie
+38,1998,Spain,Bulgaria,Spain,Spain
+39,1998,Paraguay,Nigeria,Tie,Paraguay
+40,1998,South Korea,Belgium,Belgium,Tie
+41,1998,Mexico,Netherlands,Mexico,Tie
+42,1998,Germany,Iran,Germany,Germany
+43,1998,Serbia,United States,Serbia,Serbia
+44,1998,Japan,Jamaica,Japan,Jamaica
+45,1998,Croatia,Argentina,Tie,Argentina
+46,1998,Romania,Tunisia,Romania,Tie
+47,1998,England,Colombia,England,England
+48,1998,Norway,Italy,Italy,Italy
+49,1998,Brazil,Chile,Brazil,Brazil
+50,1998,France,Paraguay,France,France
+51,1998,Denmark,Nigeria,Denmark,Denmark
+52,1998,Germany,Mexico,Germany,Germany
+53,1998,Serbia,Netherlands,Serbia,Netherlands
+54,1998,Romania,Croatia,Romania,Croatia
+55,1998,England,Argentina,England,Tie
+56,1998,France,Italy,Italy,Tie
+57,1998,Brazil,Denmark,Brazil,Brazil
+58,1998,Argentina,Netherlands,Argentina,Netherlands
+59,1998,Germany,Croatia,Germany,Croatia
+60,1998,Brazil,Netherlands,Brazil,Tie
+61,1998,Croatia,France,Croatia,France
+62,1998,Netherlands,Croatia,Netherlands,Croatia
+63,1998,Brazil,France,Brazil,France

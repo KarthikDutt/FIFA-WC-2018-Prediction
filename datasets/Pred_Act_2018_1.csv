@@ -1,0 +1,49 @@
+,Year,Team1,Team2,Predicted_Winner,Actual Winner
+0,2018,Russia,Saudi Arabia,Russia,Russia
+1,2018,Uruguay,Egypt,Uruguay,Uruguay
+2,2018,Iran,Morocco,Tie,Iran
+3,2018,Portugal,Spain,Spain,Tie
+4,2018,France,Australia,France,France
+5,2018,Argentina,Iceland,Argentina,Tie
+6,2018,Peru,Denmark,Peru,Denmark
+7,2018,Croatia,Nigeria,Croatia,Croatia
+8,2018,Costa Rica,Serbia,Costa Rica,Serbia
+9,2018,Germany,Mexico,Germany,Mexico
+10,2018,Brazil,Switzerland,Brazil,Tie
+11,2018,Sweden,South Korea,Sweden,Sweden
+12,2018,Belgium,Panama,Belgium,Belgium
+13,2018,England,Tunisia,England,England
+14,2018,Colombia,Japan,Colombia,Japan
+15,2018,Poland,Senegal,Poland,Senegal
+16,2018,Egypt,Russia,Russia,Russia
+17,2018,Portugal,Morocco,Portugal,Portugal
+18,2018,Uruguay,Saudi Arabia,Uruguay,Uruguay
+19,2018,Spain,Iran,Spain,Spain
+20,2018,Denmark,Australia,Denmark,Tie
+21,2018,France,Peru,France,France
+22,2018,Argentina,Croatia,Argentina,Croatia
+23,2018,Brazil,Costa Rica,Brazil,Brazil
+24,2018,Iceland,Nigeria,Nigeria,Nigeria
+25,2018,Switzerland,Serbia,Switzerland,
+26,2018,Belgium,Tunisia,Belgium,
+27,2018,Mexico,South Korea,Mexico,
+28,2018,Germany,Sweden,Germany,
+29,2018,England,Panama,England,
+30,2018,Senegal,Japan,Senegal,
+31,2018,Poland,Colombia,Poland,
+32,2018,Uruguay,Russia,Tie,
+33,2018,Egypt,Saudi Arabia,Egypt,
+34,2018,Portugal,Iran,Portugal,
+35,2018,Spain,Morocco,Spain,
+36,2018,France,Denmark,France,
+37,2018,Peru,Australia,Peru,
+38,2018,Argentina,Nigeria,Argentina,
+39,2018,Croatia,Iceland,Croatia,
+40,2018,Mexico,Sweden,Mexico,
+41,2018,Germany,South Korea,Germany,
+42,2018,Brazil,Serbia,Brazil,
+43,2018,Switzerland,Costa Rica,Switzerland,
+44,2018,Poland,Japan,Poland,
+45,2018,Colombia,Senegal,Colombia,
+46,2018,Tunisia,Panama,Tunisia,
+47,2018,Belgium,England,England,

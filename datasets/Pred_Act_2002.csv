@@ -1,0 +1,65 @@
+Year,Team1,Team2,Predicted_Winner
+2002,France,Senegal,France
+2002,Denmark,Uruguay,Denmark
+2002,France,Uruguay,France
+2002,Denmark,Senegal,Denmark
+2002,France,Denmark,France
+2002,Uruguay,Senegal,Uruguay
+2002,Paraguay,South Africa,Paraguay
+2002,Spain,Slovenia,Spain
+2002,Spain,Paraguay,Spain
+2002,Slovenia,South Africa,South Africa
+2002,Spain,South Africa,Spain
+2002,Paraguay,Slovenia,Paraguay
+2002,Brazil,Turkey,Brazil
+2002,Costa Rica,China PR,Costa Rica
+2002,China PR,Brazil,Brazil
+2002,Turkey,Costa Rica,Turkey
+2002,Brazil,Costa Rica,Brazil
+2002,China PR,Turkey,China PR
+2002,Poland,Korea Republic,Tie
+2002,Portugal,USA,Portugal
+2002,USA,Korea Republic,Korea Republic
+2002,Portugal,Poland,Portugal
+2002,Korea Republic,Portugal,Portugal
+2002,USA,Poland,Poland
+2002,Cameroon,Republic of Ireland,Cameroon
+2002,Germany,Saudi Arabia,Germany
+2002,Republic of Ireland,Germany,Germany
+2002,Cameroon,Saudi Arabia,Cameroon
+2002,Germany,Cameroon,Germany
+2002,Republic of Ireland,Saudi Arabia,Saudi Arabia
+2002,England,Sweden,England
+2002,Nigeria,Argentina,Tie
+2002,Sweden,Nigeria,Sweden
+2002,England,Argentina,England
+2002,Argentina,Sweden,Argentina
+2002,England,Nigeria,England
+2002,Mexico,Croatia,Mexico
+2002,Ecuador,Italy,Italy
+2002,Croatia,Italy,Tie
+2002,Mexico,Ecuador,Mexico
+2002,Italy,Mexico,Italy
+2002,Croatia,Ecuador,Croatia
+2002,Belgium,Japan,Belgium
+2002,Russia,Tunisia,Russia
+2002,Russia,Japan,Russia
+2002,Belgium,Tunisia,Belgium
+2002,Tunisia,Japan,Tunisia
+2002,Belgium,Russia,Russia
+2002,Germany,Paraguay,Germany
+2002,England,Denmark,England
+2002,Sweden,Senegal,Sweden
+2002,Republic of Ireland,Spain,Spain
+2002,USA,Mexico,Mexico
+2002,Brazil,Belgium,Brazil
+2002,Turkey,Japan,Turkey
+2002,Italy,Korea Republic,Italy
+2002,Brazil,England,Brazil
+2002,USA,Germany,Germany
+2002,Korea Republic,Spain,Tie
+2002,Turkey,Senegal,Turkey
+2002,Korea Republic,Germany,Germany
+2002,Brazil,Turkey,Brazil
+2002,Turkey,Korea Republic,Korea Republic
+2002,Brazil,Germany,Brazil

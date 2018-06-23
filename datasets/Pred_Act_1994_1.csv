@@ -1,0 +1,53 @@
+,Year,Team1,Team2,Predicted_Winner,Actual Winner
+0,1994,Germany,Bolivia,Germany,Germany
+1,1994,Spain,South Korea,Spain,Tie
+2,1994,Switzerland,United States,Switzerland,Tie
+3,1994,Italy,Republic of Ireland,Italy,Republic of Ireland
+4,1994,Romania,Colombia,Romania,Romania
+5,1994,Morocco,Belgium,Morocco,Belgium
+6,1994,Norway,Mexico,Mexico,Norway
+7,1994,Sweden,Cameroon,Sweden,Tie
+8,1994,Russia,Brazil,Russia,Brazil
+9,1994,Netherlands,Saudi Arabia,Netherlands,Netherlands
+10,1994,Argentina,Greece,Argentina,Argentina
+11,1994,Germany,Spain,Germany,Tie
+12,1994,Bulgaria,Nigeria,Bulgaria,Nigeria
+13,1994,Switzerland,Romania,Switzerland,Switzerland
+14,1994,Colombia,United States,Colombia,United States
+15,1994,Norway,Italy,Italy,Italy
+16,1994,South Korea,Bolivia,South Korea,Tie
+17,1994,Mexico,Republic of Ireland,Mexico,Mexico
+18,1994,Brazil,Cameroon,Brazil,Brazil
+19,1994,Russia,Sweden,Russia,Sweden
+20,1994,Netherlands,Belgium,Netherlands,Belgium
+21,1994,Morocco,Saudi Arabia,Morocco,Saudi Arabia
+22,1994,Argentina,Nigeria,Argentina,Argentina
+23,1994,Bulgaria,Greece,Bulgaria,Bulgaria
+24,1994,Switzerland,Colombia,Switzerland,Colombia
+25,1994,Romania,United States,Romania,Romania
+26,1994,Germany,South Korea,Germany,Germany
+27,1994,Spain,Bolivia,Spain,Spain
+28,1994,Norway,Republic of Ireland,Norway,Tie
+29,1994,Italy,Mexico,Italy,Tie
+30,1994,Cameroon,Russia,Russia,Russia
+31,1994,Brazil,Sweden,Brazil,Brazil
+32,1994,Netherlands,Morocco,Netherlands,Netherlands
+33,1994,Belgium,Saudi Arabia,Belgium,Saudi Arabia
+34,1994,Argentina,Bulgaria,Argentina,Bulgaria
+35,1994,Greece,Nigeria,Greece,Nigeria
+36,1994,Germany,Belgium,Germany,Germany
+37,1994,Switzerland,Spain,Spain,Spain
+38,1994,Sweden,Saudi Arabia,Sweden,Sweden
+39,1994,Argentina,Romania,Argentina,Romania
+40,1994,Netherlands,Republic of Ireland,Netherlands,Netherlands
+41,1994,Brazil,United States,Brazil,Brazil
+42,1994,Italy,Nigeria,Italy,Italy
+43,1994,Mexico,Bulgaria,Mexico,Tie
+44,1994,Spain,Italy,Spain,Italy
+45,1994,Brazil,Netherlands,Brazil,Brazil
+46,1994,Germany,Bulgaria,Germany,Bulgaria
+47,1994,Sweden,Romania,Sweden,Tie
+48,1994,Brazil,Sweden,Brazil,Brazil
+49,1994,Italy,Bulgaria,Italy,Italy
+50,1994,Sweden,Bulgaria,Sweden,Sweden
+51,1994,Brazil,Italy,Brazil,Tie

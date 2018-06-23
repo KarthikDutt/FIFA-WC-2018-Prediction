@@ -1,0 +1,65 @@
+,Year,Team1,Team2,Predicted_Winner,Actual Winner
+0,2014,Brazil,Croatia,Brazil,Brazil
+1,2014,Chile,Australia,Chile,Chile
+2,2014,Mexico,Cameroon,Mexico,Mexico
+3,2014,Spain,Netherlands,Spain,Netherlands
+4,2014,Colombia,Greece,Colombia,Colombia
+5,2014,Italy,England,Italy,Italy
+6,2014,Japan,Ivory Coast,Japan,Ivory Coast
+7,2014,Uruguay,Costa Rica,Uruguay,Costa Rica
+8,2014,Bosnia-Herzegovina,Argentina,Argentina,Argentina
+9,2014,France,Honduras,France,France
+10,2014,Ecuador,Switzerland,Switzerland,Switzerland
+11,2014,Germany,Portugal,Germany,Germany
+12,2014,United States,Ghana,United States,United States
+13,2014,Iran,Nigeria,Iran,Tie
+14,2014,Belgium,Algeria,Belgium,Belgium
+15,2014,Brazil,Mexico,Brazil,Tie
+16,2014,South Korea,Russia,Russia,Tie
+17,2014,Netherlands,Australia,Netherlands,Netherlands
+18,2014,Croatia,Cameroon,Croatia,Croatia
+19,2014,Spain,Chile,Spain,Chile
+20,2014,Ivory Coast,Colombia,Ivory Coast,Colombia
+21,2014,Greece,Japan,Greece,Tie
+22,2014,Uruguay,England,England,Uruguay
+23,2014,Ecuador,Honduras,Ecuador,Ecuador
+24,2014,Costa Rica,Italy,Italy,Costa Rica
+25,2014,France,Switzerland,France,France
+26,2014,Iran,Argentina,Argentina,Argentina
+27,2014,Germany,Ghana,Germany,Tie
+28,2014,Bosnia-Herzegovina,Nigeria,Tie,Nigeria
+29,2014,Belgium,Russia,Russia,Belgium
+30,2014,Algeria,South Korea,Algeria,Algeria
+31,2014,Portugal,United States,Portugal,Tie
+32,2014,Spain,Australia,Spain,Spain
+33,2014,Brazil,Cameroon,Brazil,Brazil
+34,2014,Mexico,Croatia,Croatia,Mexico
+35,2014,Chile,Netherlands,Netherlands,Netherlands
+36,2014,England,Costa Rica,England,Tie
+37,2014,Ivory Coast,Greece,Ivory Coast,Greece
+38,2014,Uruguay,Italy,Uruguay,Uruguay
+39,2014,Colombia,Japan,Colombia,Colombia
+40,2014,Iran,Bosnia-Herzegovina,Iran,Bosnia-Herzegovina
+41,2014,France,Ecuador,France,Tie
+42,2014,Switzerland,Honduras,Switzerland,Switzerland
+43,2014,Argentina,Nigeria,Argentina,Argentina
+44,2014,Russia,Algeria,Russia,Tie
+45,2014,Belgium,South Korea,Belgium,Belgium
+46,2014,Portugal,Ghana,Portugal,Portugal
+47,2014,Germany,United States,Germany,Germany
+48,2014,Brazil,Chile,Brazil,Tie
+49,2014,Colombia,Uruguay,Uruguay,Colombia
+50,2014,Greece,Costa Rica,Greece,Tie
+51,2014,Netherlands,Mexico,Netherlands,Netherlands
+52,2014,France,Nigeria,France,France
+53,2014,Germany,Algeria,Germany,Germany
+54,2014,Switzerland,Argentina,Argentina,Argentina
+55,2014,United States,Belgium,United States,Belgium
+56,2014,Colombia,Brazil,Brazil,Brazil
+57,2014,Germany,France,Germany,Germany
+58,2014,Belgium,Argentina,Argentina,Argentina
+59,2014,Netherlands,Costa Rica,Netherlands,Tie
+60,2014,Germany,Brazil,Brazil,Germany
+61,2014,Argentina,Netherlands,Argentina,Tie
+62,2014,Brazil,Netherlands,Brazil,Netherlands
+63,2014,Argentina,Germany,Argentina,Germany

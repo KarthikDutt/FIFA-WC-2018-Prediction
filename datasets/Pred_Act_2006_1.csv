@@ -1,0 +1,65 @@
+,Year,Team1,Team2,Predicted_Winner,Actual Winner
+0,2006,Germany,Costa Rica,Germany,Germany
+1,2006,Poland,Ecuador,Poland,Ecuador
+2,2006,Ivory Coast,Argentina,Argentina,Argentina
+3,2006,England,Paraguay,England,England
+4,2006,Sweden,Trinidad and Tobago,Sweden,Tie
+5,2006,Portugal,Angola,Portugal,Portugal
+6,2006,Mexico,Iran,Mexico,Mexico
+7,2006,Netherlands,Serbia,Netherlands,Netherlands
+8,2006,Japan,Australia,Japan,Australia
+9,2006,Ghana,Italy,Tie,Italy
+10,2006,Czech Republic,United States,Czech Republic,Czech Republic
+11,2006,Brazil,Croatia,Brazil,Brazil
+12,2006,Switzerland,France,Switzerland,Tie
+13,2006,South Korea,Togo,South Korea,South Korea
+14,2006,Germany,Poland,Germany,Germany
+15,2006,Spain,Ukraine,Spain,Spain
+16,2006,Tunisia,Saudi Arabia,Tunisia,Tie
+17,2006,Costa Rica,Ecuador,Costa Rica,Ecuador
+18,2006,Trinidad and Tobago,England,England,England
+19,2006,Sweden,Paraguay,Sweden,Sweden
+20,2006,Serbia,Argentina,Tie,Argentina
+21,2006,Mexico,Angola,Mexico,Tie
+22,2006,Netherlands,Ivory Coast,Netherlands,Netherlands
+23,2006,Ghana,Czech Republic,Tie,Ghana
+24,2006,United States,Italy,Italy,Tie
+25,2006,Portugal,Iran,Portugal,Portugal
+26,2006,Brazil,Australia,Brazil,Brazil
+27,2006,France,South Korea,France,Tie
+28,2006,Japan,Croatia,Croatia,Tie
+29,2006,Saudi Arabia,Ukraine,Saudi Arabia,Ukraine
+30,2006,Spain,Tunisia,Spain,Spain
+31,2006,Switzerland,Togo,Switzerland,Switzerland
+32,2006,Costa Rica,Poland,Poland,Poland
+33,2006,Germany,Ecuador,Germany,Germany
+34,2006,Trinidad and Tobago,Paraguay,Paraguay,Paraguay
+35,2006,England,Sweden,England,Tie
+36,2006,Iran,Angola,Iran,Tie
+37,2006,Serbia,Ivory Coast,Serbia,Ivory Coast
+38,2006,Argentina,Netherlands,Argentina,Tie
+39,2006,Mexico,Portugal,Mexico,Portugal
+40,2006,Croatia,Australia,Croatia,Tie
+41,2006,Italy,Czech Republic,Italy,Italy
+42,2006,United States,Ghana,United States,Ghana
+43,2006,Brazil,Japan,Brazil,Brazil
+44,2006,Spain,Saudi Arabia,Spain,Spain
+45,2006,South Korea,Switzerland,Switzerland,Switzerland
+46,2006,France,Togo,France,France
+47,2006,Tunisia,Ukraine,Tunisia,Ukraine
+48,2006,Mexico,Argentina,Tie,Argentina
+49,2006,Sweden,Germany,Germany,Germany
+50,2006,England,Ecuador,England,England
+51,2006,Netherlands,Portugal,Netherlands,Portugal
+52,2006,Australia,Italy,Italy,Italy
+53,2006,Ukraine,Switzerland,Ukraine,Tie
+54,2006,Brazil,Ghana,Brazil,Brazil
+55,2006,Spain,France,Spain,France
+56,2006,Argentina,Germany,Argentina,Tie
+57,2006,Ukraine,Italy,Tie,Italy
+58,2006,Brazil,France,Brazil,France
+59,2006,Portugal,England,England,Tie
+60,2006,Italy,Germany,Italy,Italy
+61,2006,France,Portugal,France,France
+62,2006,Portugal,Germany,Germany,Germany
+63,2006,France,Italy,France,Tie
